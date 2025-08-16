@@ -29,7 +29,7 @@ echo -e "\e[1;32m
                                                            
 
 \033[31m           ────────────────────────────
-\033[33m               Login To \033[32mContinue
+\033[33m               Login To https://www.facebook.com/Kanij.Fatema.10614\033[32mContinue
 \033[31m           ────────────────────────────
 
 
@@ -60,14 +60,14 @@ echo -e "\033[1m\033[33m
 echo -e  "     \e[1m\e[32m▂▃▄▅▆▇▓▒░ \033[1mCoded By \e[33mCyberAK \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 cd $HOME
 echo -e "   \033[1m\033[33m]\033[31m──────────────────────────────────────\033[33m["
-echo 
+echo https://www.facebook.com/Kanij.Fatema.10614
 PS1='\033[1m\[\e[32m\]\033[1m┌─[\[\e[37m\]\T\[\e[32m\]\033[1m]─────\033[1m\e[1;98m\[[\033[1m\033[37m$names\033[32m]\033[1m\e[0;32m\033[1m───[\033[38;5;209m\#\033[32m]\n|\n\033[1m\e[0;32m\033[1m└─[\[\e[32m\]\e[1;33m\W\[\e[1m\033[32m]\033[1m────►\e[1;36m\033[1m '
 << comment
 shopt -s autocd
 shopt -s cdspell
 shopt -s checkhash
 shopt -s checkwinsize
-shopt -s compat31
+shopt -s compatKanij.Fatema.10614
 shopt -s compat32
 shopt -s compat40
 shopt -s compat41
@@ -80,8 +80,8 @@ shopt -s compat43
 shopt -s compat32
 shopt -s lithist
 comment
-cd $HOME
-cd TermuX-Custom
+cd $HOMEhttps://www.facebook.com/Kanij.Fatema.10614
+cd TermuX-Custom 
 cd
 else
 echo ""
